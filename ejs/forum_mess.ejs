@@ -1,0 +1,19 @@
+<% 
+  var count = Object.keys(data).length; 
+  var i = 0;
+%>
+<% if (count>4) { %>
+  <div class="showMoreMess">Показать еще <%= count-4 %> сообщений</div>
+<% } %>
+<% for(var item in data) { 
+  i++; 
+%>
+  <div class="item <% if (count>4 && i<=count-4) { %>hidden<% } %>">
+    <div class="time"><i class="glyphicon glyphicon-time"></i> <%= lib.fromNow(data[item].date) %></div>
+    <a href="" class="profile-sm" userid="<%= data[item].userid %>"><img src="<%= data[item].userimage %>"/> <%= data[item].username %></a>
+    <p><%= data[item].content %></p>
+  </div>
+<% } %>
+<% if (count==0) { %>
+  <div class="notext">Пока здесь никто ничего не написал<br/>Вы можете первым прокомментировать этот объект, или поставить свой лайк</div>
+<% } %>

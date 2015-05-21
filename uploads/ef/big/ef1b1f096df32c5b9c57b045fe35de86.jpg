@@ -1,0 +1,1532 @@
+<!DOCTYPE html>
+<html xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+    <link href='http://fonts.googleapis.com/css?family=PT+Sans|PT+Sans+Narrow&subset=cyrillic-ext,latin' rel='stylesheet' type='text/css'>
+    <script type="text/javascript" src="/js/jquery-1.11.1.min.js"></script>
+                    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="description" content="Главное Нижегородское информагентство. Новости, комментарии, аналитика, интервью, рейтинги и опросы" />
+<link href="/bitrix/cache/css/s1/newsnn/kernel_main/kernel_main.css?140897283550918" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/newsnn/template_01f2d5c4ef8646986dc7ca927292f91c/template_01f2d5c4ef8646986dc7ca927292f91c.css?142348107644467" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={message:function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','USER_ID':'','SERVER_TIME':'1427368409','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'53a92ae21fbefa54aba4db4672f8e5f6'});</script>
+
+
+<script type="text/javascript" src="/bitrix/cache/js/s1/newsnn/kernel_main/kernel_main.js?1417441445384363"></script>
+<script type="text/javascript" src="/bitrix/cache/js/s1/newsnn/kernel_advertising/kernel_advertising.js?14175169322158"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core.js?141699020194768','/bitrix/js/main/core/core_ajax.js?141689900735166','/bitrix/js/main/json/json2.min.js?13970480633467','/bitrix/js/main/core/core_ls.js?139875273710330','/bitrix/js/main/session.js?14111086963170','/bitrix/js/main/core/core_window.js?140480114196525','/bitrix/js/main/utils.js?139704806330972','/bitrix/js/main/core/core_popup.js?141699019339369','/bitrix/js/main/core/core_date.js?141699019353093','/bitrix/js/main/core/core_fx.js?139704806316537','/bitrix/js/advertising/flash.js?13970480642061','/js/jquery.formstyler.min.js?139815550613890','/js/script.js?141960277211120','/js/gallary.js?14199293757430','/bitrix/components/bitrix/search.title/script.js?14083439398716','/bitrix/templates/.default/components/bitrix/search.title/newsnn/script.js?14062544378745']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css?13970480638964','/bitrix/js/main/core/css/core_popup.css?140897279828664','/bitrix/js/main/core/css/core_date.css?139704806310189','/css/style.css?142348106439242','/bitrix/templates/.default/components/bitrix/news.list/columnists_index/style.css?141822140478','/bitrix/templates/newsnn/styles.css?14171729414922']); </script>
+
+
+<script type="text/javascript" src="/bitrix/cache/js/s1/newsnn/template_981192d1efd7347041b5c21bfa0301ae/template_981192d1efd7347041b5c21bfa0301ae.js?141992937536449"></script>
+<script type="text/javascript" src="/bitrix/cache/js/s1/newsnn/page_94c7c6cbc8cd41a2b9a44c96f267cbb5/page_94c7c6cbc8cd41a2b9a44c96f267cbb5.js?141689903413981"></script>
+<script type="text/javascript">
+bxSession.Expand(1440, '53a92ae21fbefa54aba4db4672f8e5f6', false, 'bad0a10c3e452818044af20ee679ec9a');
+</script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "2f118dacac8d105b2e70f44579889f8f"]); _ba.push(["host", "newsnn.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+    <title>Новости Нижнего Новгорода | Newsnn.ru </title>
+            <link rel="canonical" href="http://newsnn.ru/"/>
+        	<script async="async" src="https://w.uptolike.com/widgets/v1/zp.js?pid=642002" type="text/javascript"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(function(){
+            jQuery("#banner-left-two").hover(function(){
+                jQuery("#all-background").stop().fadeIn("slow");
+            },
+            function(){
+                jQuery("#all-background").stop().fadeOut("slow");
+            })
+        })
+    </script>
+    <meta property="og:image" content="">
+    <link rel="image_src" href="" />
+            <link rel="alternate" type="application/atom+xml" title="RSS - Новости" href="/rss_news.php" />
+        <base href="http://newsnn.ru">
+</head>
+<body>
+<!--<div class="modalcal">
+	<div class="modalcalhead">
+		к<br>
+		а<br>
+		л<br>
+		е<br>
+		н<br>
+		д<br>
+		а<br>
+		р<br>
+		ь
+	</div>
+	</div>-->
+<div class="megawrap" style="width:1004px; margin:0 auto;">
+<div class="container_body">
+    <div id="all-background"></div>
+    <div class="btndown"></div>
+            
+    <div class="header">
+        <div class="top-menu">
+    <ul>
+                            <li ><a href="/news/">Новости</a></li>
+                            <li ><a href="/analytics/">Аналитика</a></li>
+                            <li ><a href="/interview/">Интервью</a></li>
+                            <li ><a href="/photo/">Фоторепортажи</a></li>
+                            <li ><a href="/monitoring/">Мониторинг</a></li>
+                            <li ><a href="/rating/">Рейтинги</a></li>
+                            <li ><a href="/polls/">Опросы</a></li>
+                            <li  class="nomargin_right" ><a href="/columnists/">Блоги</a></li>
+                </ul>
+    <div class="clear"></div>
+</div>        <a href="/" class="logo"></a>
+        <div class="fir-tree">НОВОСТИ<br>НИЖНЕГО НОВГОРОДА</div>
+        <!--'start_frame_cache_XdqEv1'-->	<div id="title-search">
+	<form action="/search/index.php">
+		<input id="title-search-input" type="text" name="q" value="" size="40" maxlength="50" autocomplete="off" placeholder="Поиск по сайту" /><input name="s" type="submit" value="Поиск" />
+	</form>
+	</div>
+<script type="text/javascript">
+var jsControl_047d514cb78d27614405030735c0b002 = new JCTitleSearch_custom({
+	//'WAIT_IMAGE': '/bitrix/themes/.default/images/wait.gif',
+	'AJAX_PAGE' : '/',
+	'CONTAINER_ID': 'title-search',
+	'INPUT_ID': 'title-search-input',
+	'MIN_QUERY_LEN': 2
+});
+</script>
+<!--'end_frame_cache_XdqEv1'-->        <div class="social_bt">
+            <strong>Мы в соцсетях:</strong> <noindex><a href="https://vk.com/publicnewsnn" id="vk" target="blank"></a></noindex> <!--<a href="/" id="tw"></a> <a href="/" id="yt"></a>--> <noindex><a href="https://www.facebook.com/newsnn" id="fb" target="blank"></a></noindex>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+
+    <div class="center-menu">
+<ul>
+		<li><a href="/rubrics/culture/">Культура</a></li>
+		<li><a href="/rubrics/society/">Общество</a></li>
+		<li><a href="/rubrics/politics/">Политика</a></li>
+		<li><a href="/rubrics/incidents/">Происшествия</a></li>
+		<li><a href="/rubrics/sports/">Спорт</a></li>
+		<li><a href="/rubrics/economy/">Экономика</a></li>
+	</ul>
+    <div class="center-menu-pointer"></div>
+</div>    <div class="clear"></div>
+
+            
+<div class="clear"></div>
+<div class="body_block_left ">
+        <div class="main-news-title"><h1>Новость дня</h1><a target="_self" title="rss" class="rss" href="/rss_news.php">RSS</a></div>
+    <div class="clear"></div>
+<div class="main-news-list">
+
+		<div class="news-item" id="bx_3218110189_136427">
+				<div class="news-picture">
+							<a href="news/2015/03/24/136427/"><img class="preview_picture" border="0" src="/upload/resize_cache/iblock/d32/300_250_1/d32c1bf13be7e1f06d6ee6b7922a3f78.jpg" width="282" height="249" alt="Перинатальный центр в Дзержинске начнет свою работу в мае-июне 2015 года" title="Перинатальный центр в Дзержинске начнет свою работу в мае-июне 2015 года" /></a>
+					</div>
+		        		<div class="news-text">
+					<span class="news-date-time"><span class="red">18:04</span>  &#8211; Общество</span>
+							<div class="news-name">
+							<a href="news/2015/03/24/136427/">Перинатальный центр в Дзержинске начнет свою работу в мае-июне 2015 года</a>
+						</div>
+						</div>
+					<div class="clear"></div>
+			</div>
+    <div class="news-br"></div>
+</div>
+        <!--'start_frame_cache_L66FmA'-->        <div id="banner-center">
+        <script type="text/javascript" src="/bitrix/js/advertising/flash.js?13970480642061"></script><div id="idUymQjQrJJx" style="width: 620px; height: 100px; padding:0; margin:0;"><div style="position:absolute; z-index:100;"><a href="/bitrix/rk.php?id=21&amp;event1=banner&amp;event2=click&amp;event3=1+%2F+%5B21%5D+%5BCENTER%5D+%D0%96%D0%B8%D0%BB%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81_23.03.15&amp;goto=http%3A%2F%2Fzvopros.ru%2F" target="_blank" ><img src="/bitrix/images/1.gif" width="620" height="100" border="0" alt="" /></a></div></div><script type="text/javascript">bx_adv_includeFlash("idUymQjQrJJx", "/upload/rk/14f/14ffa227246e656cc2c4e9c33af93336.swf?flash_link=%2Fbitrix%2Frk.php%3Fid%3D21%26amp%3Bevent1%3Dbanner%26amp%3Bevent2%3Dclick%26amp%3Bevent3%3D1%2B%252F%2B%255B21%255D%2B%255BCENTER%255D%2B%25D0%2596%25D0%25B8%25D0%25BB%25D0%25B2%25D0%25BE%25D0%25BF%25D1%2580%25D0%25BE%25D1%2581_23.03.15%26amp%3Bgoto%3Dhttp%253A%252F%252Fzvopros.ru%252F&amp;flash_target=_blank", "620", "100", "transparent", "/upload/rk/738/73830ecdcac3ad1d3f61ac87d4ce0d65.gif", null, "", "_blank", "");</script>        </div>
+        <div class="banner-br"></div>
+    <!--'end_frame_cache_L66FmA'-->    <div class="vmode-block vmode-index">
+        <a data-vmode="list" href="/?vmode=list" class="active" title="Списком"><span class="vmode-list"></span></a><a data-vmode="table" href="/?vmode=table" title="Таблицей"><span class="vmode-table"></span></a>
+    </div>
+<div class="news-sort">
+<form method="post" action="">
+    <select name="SORT_ORDER" onchange="newsShowFiltered()">
+        <option value="news">Самые последние</option>
+        <option value="views">По популярности</option>
+    </select>
+    <select name="SECTION_ID" onchange="newsShowFiltered()">
+        <option value="">Все рубрики</option>
+                    <option value="1">Культура</option>
+                        <option value="2">Общество</option>
+                        <option value="3">Политика</option>
+                        <option value="4">Происшествия</option>
+                        <option value="5">Спорт</option>
+                        <option value="6">Экономика</option>
+                </select>
+</form>
+</div><script type="text/javascript">
+    $(function(){
+
+            $('.news-sort select').styler();
+        $('.news-sort select').trigger('refresh');
+    });
+</script><div id="news-list-main">
+    <div class="news-list-title"><h2>Лента новостей</h2> <a target="_self" title="rss" class="rss" href="/rss_news.php">RSS</a><div class="clear"></div></div>
+ <div class="news_list_page">
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">13:46</span> сегодня  &#8212; Происшествия</span>
+                <a href="/news/2015/03/26/136570/"  class="news-title">Квартирный вор похитил золотое кольцо у нижегородки</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_iJBuqa'-->                    <span class="news-eye"></span><span class="news-views">39</span>
+                    <!--'end_frame_cache_iJBuqa'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136570" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/kvartirnyy_vor_pokhitil_zolotoe_koltso_u_nizhegorodki/" class="comments-list" id="comments_136570"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">13:33</span> сегодня  &#8212; Общество</span>
+                <a href="/news/2015/03/26/136569/"  class="news-title">Цветы возложат к памятнику Максиму Горькому в Нижнем Новгороде</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_wNy1tM'-->                    <span class="news-eye"></span><span class="news-views">53</span>
+                    <!--'end_frame_cache_wNy1tM'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136569" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/tsvety_vozlozhat_k_pamyatniku_maksimu_gorkomu_v_nizhnem_novgorode/" class="comments-list" id="comments_136569"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">13:19</span> сегодня  &#8212; Экономика</span>
+                <a href="/news/2015/03/26/136568/"  class="news-title">Около 1 млрд рублей будет дополнительно направлено на строительство дублера Борского моста</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_7nI0u4'-->                    <span class="news-eye"></span><span class="news-views">61</span>
+                    <!--'end_frame_cache_7nI0u4'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136568" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/okolo_1_mlrd_rubley_budet_dopolnitelno_napravleno_na_stroitelstvo_dublera_borskogo_mosta/" class="comments-list" id="comments_136568"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">13:02</span> сегодня  &#8212; Общество</span>
+                <a href="/news/2015/03/26/136564/"  class="news-title">Деревянный частный дом сгорел из-за неосторожного курильщика в нижегородской области</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_kbYVLL'-->                    <span class="news-eye"></span><span class="news-views">52</span>
+                    <!--'end_frame_cache_kbYVLL'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136564" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/derevyannyy_chastnyy_dom_sgorel_iz_za_neostorozhnogo_kurilshchika_v_nizhegorodskoy_oblasti/" class="comments-list" id="comments_136564"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">12:52</span> сегодня  &#8212; Происшествия</span>
+                <a href="/news/2015/03/26/136563/"  class="news-title">Доследственная проверка по факту гибели работника ВМЗ при погрузке труб проводится в Нижегородской области</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_JApS7z'-->                    <span class="news-eye"></span><span class="news-views">53</span>
+                    <!--'end_frame_cache_JApS7z'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136563" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/dosledstvennaya_proverka_po_faktu_gibeli_rabotnika_vmz_pri_pogruzke_trub_provoditsya_v_nizhegorodskoy_oblasti/" class="comments-list" id="comments_136563"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">12:33</span> сегодня  &#8212; Общество</span>
+                <a href="/news/2015/03/26/136562/"  class="news-title">Финансовый аналитик Овчинников показал, как кризис ударил по доходам нижегородцев </a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_ShshLy'-->                    <span class="news-eye"></span><span class="news-views">111</span>
+                    <!--'end_frame_cache_ShshLy'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136562" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/finansovyy_analitik_ovchinnikov_pokazal_kak_krizis_udaril_po_dokhodam_nizhegorodtsev_/" class="comments-list" id="comments_136562"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">12:21</span> сегодня  &#8212; Общество</span>
+                <a href="/news/2015/03/26/136561/"  class="news-title">Заксобрание Нижегородской области включило в прогнозный план приватизации госимущества региона на 2015-2017 годы 22 объекта </a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_Wc7R1C'-->                    <span class="news-eye"></span><span class="news-views">70</span>
+                    <!--'end_frame_cache_Wc7R1C'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136561" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/zaksobranie_nizhegorodskoy_oblasti_vklyuchilo_v_prognoznyy_plan_privatizatsii_gosimushchestva_regiona_na_2015_2017_gody_22_obekta_/" class="comments-list" id="comments_136561"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">11:59</span> сегодня  &#8212; Общество</span>
+                <a href="/news/2015/03/26/136560/"  class="news-title">Заксобрание Нижегородской области поддержало перевод сельхозрынков в городах региона в капитальные здания</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_SrMwZg'-->                    <span class="news-eye"></span><span class="news-views">70</span>
+                    <!--'end_frame_cache_SrMwZg'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136560" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/zaksobranie_nizhegorodskoy_oblasti_podderzhalo_perevod_selkhozrynkov_v_gorodakh_regiona_v_kapitalnye_zdaniya/" class="comments-list" id="comments_136560"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">11:56</span> сегодня  &#8212; Общество</span>
+                <a href="/news/2015/03/26/136559/"  class="news-title">Заксобрание Нижегородской области высказалось за сохранение действующих инвестсоглашений между предприятиями и правительством региона</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_A23C3U'-->                    <span class="news-eye"></span><span class="news-views">73</span>
+                    <!--'end_frame_cache_A23C3U'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136559" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/zaksobranie_nizhegorodskoy_oblasti_vyskazalos_za_sokhranenie_deystvuyushchikh_investsoglasheniy_mezhdu_predpriyatiyami_i_pravitelstvom_regiona/" class="comments-list" id="comments_136559"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">11:54</span> сегодня  &#8212; Общество</span>
+                <a href="/news/2015/03/26/136558/"  class="news-title">Региональный парламент одобрил законопроект, предполагающий предоставление участков без торгов для некоторых категорий инвесторов</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_mOgDHb'-->                    <span class="news-eye"></span><span class="news-views">72</span>
+                    <!--'end_frame_cache_mOgDHb'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136558" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/regionalnyy_parlament_odobril_zakonoproekt_predpolagayushchiy_predostavlenie_uchastkov_bez_torgov_dlya_nekotorykh_kategoriy_investorov/" class="comments-list" id="comments_136558"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">11:50</span> сегодня  &#8212; Общество</span>
+                <a href="/news/2015/03/26/136557/"  class="news-title">«День тренингов» пройдет в Нижнем Новгороде 4 апреля</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_ZL6Ctw'-->                    <span class="news-eye"></span><span class="news-views">61</span>
+                    <!--'end_frame_cache_ZL6Ctw'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136557" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/den_treningov_proydet_v_nizhnem_novgorode_4_aprelya/" class="comments-list" id="comments_136557"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">11:42</span> сегодня  &#8212; Экономика</span>
+                <a href="/news/2015/03/26/136556/"  class="news-title">Заксобрание Нижегородской области поддержало увеличение расходов регионального бюджета на 709 млн рублей</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_Z9r3Lf'-->                    <span class="news-eye"></span><span class="news-views">94</span>
+                    <!--'end_frame_cache_Z9r3Lf'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136556" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/zaksobranie_nizhegorodskoy_oblasti_podderzhalo_uvelichenie_raskhodov_regionalnogo_byudzheta_na_709_mln_rubley/" class="comments-list" id="comments_136556"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">11:34</span> сегодня  &#8212; Общество</span>
+                <a href="/news/2015/03/26/136555/"  class="news-title">Капсулу времени заложат в музее истории НижГМА</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_IFoduX'-->                    <span class="news-eye"></span><span class="news-views">84</span>
+                    <!--'end_frame_cache_IFoduX'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136555" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/kapsulu_vremeni_zalozhat_v_muzee_istorii_nizhgma/" class="comments-list" id="comments_136555"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">11:19</span> сегодня  &#8212; Общество</span>
+                <a href="/news/2015/03/26/136554/"  class="news-title">Волжское пароходство открыло грузовую навигацию на Нижней Волге</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_39AtOi'-->                    <span class="news-eye"></span><span class="news-views">63</span>
+                    <!--'end_frame_cache_39AtOi'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136554" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/volzhskoe_parokhodstvo_otkrylo_gruzovuyu_navigatsiyu_na_nizhney_volge/" class="comments-list" id="comments_136554"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">11:12</span> сегодня  &#8212; Общество</span>
+                <a href="/news/2015/03/26/136553/"  class="news-title">«Ростелеком» охватил оптикой коттеджные поселки Нижнего Новгорода и области</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_up6UnC'-->                    <span class="news-eye"></span><span class="news-views">84</span>
+                    <!--'end_frame_cache_up6UnC'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136553" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/rostelekom_okhvatil_optikoy_kottedzhnye_poselki_nizhnego_novgoroda_i_oblasti/" class="comments-list" id="comments_136553"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">11:02</span> сегодня  &#8212; Происшествия</span>
+                <a href="/news/2015/03/26/136552/"  class="news-title">Нижегородские полицейские разыскивают подозреваемого в серии краж из кафе</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_72EFa8'-->                    <span class="news-eye"></span><span class="news-views">92</span>
+                    <!--'end_frame_cache_72EFa8'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136552" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/nizhegorodskie_politseyskie_razyskivayut_podozrevaemogo_v_serii_krazh_iz_kafe/" class="comments-list" id="comments_136552"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">10:39</span> сегодня  &#8212; Общество</span>
+                <a href="/news/2015/03/26/136551/"  class="news-title">Нижегородка отравилась продуктами горения на пожаре в частном доме</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_AoGotz'-->                    <span class="news-eye"></span><span class="news-views">89</span>
+                    <!--'end_frame_cache_AoGotz'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136551" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/nizhegorodka_otravilas_produktami_goreniya_na_pozhare_v_chastnom_dome/" class="comments-list" id="comments_136551"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">10:14</span> сегодня  &#8212; Происшествия</span>
+                <a href="/news/2015/03/26/136550/"  class="news-title">Нижегородец лишился свободы на 12 лет за убийство пасынка</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_qkkaeg'-->                    <span class="news-eye"></span><span class="news-views">79</span>
+                    <!--'end_frame_cache_qkkaeg'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136550" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/nizhegorodets_lishilsya_svobody_na_12_let_za_ubiystvo_pasynka/" class="comments-list" id="comments_136550"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">10:02</span> сегодня  &#8212; Культура</span>
+                <a href="/news/2015/03/26/136549/"  class="news-title">Фестиваль короткометражного кино Kinematic Shorts стартует в Нижнем Новгороде</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_DDCPDs'-->                    <span class="news-eye"></span><span class="news-views">81</span>
+                    <!--'end_frame_cache_DDCPDs'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136549" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/festival_korotkometrazhnogo_kino_kinematic_shorts_startuet_v_nizhnem_novgorode/" class="comments-list" id="comments_136549"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">09:49</span> сегодня  &#8212; Общество</span>
+                <a href="/news/2015/03/26/136547/"  class="news-title">Выставка «Весна в Нижнем» откроется на Нижегородской ярмарке 26 марта</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_co5pYd'-->                    <span class="news-eye"></span><span class="news-views">84</span>
+                    <!--'end_frame_cache_co5pYd'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136547" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/vystavka_vesna_v_nizhnem_otkroetsya_na_nizhegorodskoy_yarmarke_26_marta/" class="comments-list" id="comments_136547"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">09:47</span> сегодня  &#8212; Общество</span>
+                <a href="/news/2015/03/26/136546/"  class="news-title">Перевозчики мусора заявили об угрозе резкого повышения цен на вывоз твердо-бытовых отходов в Нижнем Новгороде</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_ZvwznQ'-->                    <span class="news-eye"></span><span class="news-views">182</span>
+                    <!--'end_frame_cache_ZvwznQ'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136546" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/perevozchiki_musora_zayavili_ob_ugroze_rezkogo_povysheniya_tsen_na_vyvoz_tverdo_bytovykh_otkhodov_v_nizhnem_novgorode/" class="comments-list" id="comments_136546"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">09:15</span> сегодня  &#8212; Общество</span>
+                <a href="/news/2015/03/26/136545/"  class="news-title">Региональный тур конкурса портных-любителей и профессионалов пройдет в Нижнем Новгороде</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_nVqPwP'-->                    <span class="news-eye"></span><span class="news-views">95</span>
+                    <!--'end_frame_cache_nVqPwP'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136545" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/regionalnyy_tur_konkursa_portnykh_lyubiteley_i_professionalov_proydet_v_nizhnem_novgorode/" class="comments-list" id="comments_136545"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">09:04</span> сегодня  &#8212; Общество</span>
+                <a href="/news/2015/03/26/136544/"  class="news-title">Восьмой международный конкурс молодых пианистов имени В.Ю. Виллуана стартует в Нижнем Новгороде 26 марта</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_gqez9G'-->                    <span class="news-eye"></span><span class="news-views">92</span>
+                    <!--'end_frame_cache_gqez9G'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136544" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/vosmoy_mezhdunarodnyy_konkurs_molodykh_pianistov_imeni_v_yu_villuana_startuet_v_nizhnem_novgorode_26_marta/" class="comments-list" id="comments_136544"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">08:57</span> сегодня  &#8212; Общество</span>
+                <a href="/news/2015/03/26/136543/"  class="news-title">Депутат областного Законодательного Собрания от КПРФ Александр Яицкий привлечен к административной ответственности за отказ от прохождения медицинского освидетельствования</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_MoG9Hw'-->                    <span class="news-eye"></span><span class="news-views">151</span>
+                    <!--'end_frame_cache_MoG9Hw'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136543" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/deputat_oblastnogo_zakonodatelnogo_sobraniya_ot_kprf_aleksandr_yaitskiy_privlechen_k_administrativnoy_otvetstvennosti_za_otkaz_ot_prokhozhdeniya_meditsinskogo_osvidetelstvovaniya/" class="comments-list" id="comments_136543"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">08:47</span> сегодня  &#8212; Общество</span>
+                <a href="/news/2015/03/26/136539/"  class="news-title">Компания «ОкРемонт» начинает работать в Нижнем Новгороде</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_MnPBT8'-->                    <span class="news-eye"></span><span class="news-views">89</span>
+                    <!--'end_frame_cache_MnPBT8'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136539" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/kompaniya_okremont_nachinaet_rabotat_v_nizhnem_novgorode/" class="comments-list" id="comments_136539"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                            <img src="/upload/resize_cache/iblock/b12/300_200_2/b123e56c79a971a526fe1b121c639e7c.jpg" width="300"  height="200">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">08:17</span> сегодня  &#8212; Происшествия</span>
+                <a href="/news/2015/03/26/136514/"  class="news-title">Иномарка горела в Нижегородской области 26 марта</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_ZhJTVa'-->                    <span class="news-eye"></span><span class="news-views">91</span>
+                    <!--'end_frame_cache_ZhJTVa'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136514" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/inomarka_gorela_v_nizhegorodskoy_oblasti_26_marta/" class="comments-list" id="comments_136514"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">08:01</span> сегодня  &#8212; Общество</span>
+                <a href="/news/2015/03/26/136508/"  class="news-title">Определен список сельскохозяйственных ярмарок возле сетевых магазинов в Нижнем Новгороде</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_WRRx6d'-->                    <span class="news-eye"></span><span class="news-views">135</span>
+                    <!--'end_frame_cache_WRRx6d'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136508" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/opredelen_spisok_selskokhozyaystvennykh_yarmarok_vozle_setevykh_magazinov_v_nizhnem_novgorode/" class="comments-list" id="comments_136508"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">07:12</span> сегодня  &#8212; Общество</span>
+                <a href="/news/2015/03/26/136507/"  class="news-title">Похолодание до -10 градусов ожидается в Нижнем Новгороде 26 марта</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_DiypGc'-->                    <span class="news-eye"></span><span class="news-views">265</span>
+                    <!--'end_frame_cache_DiypGc'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136507" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/pokholodanie_do_10_gradusov_ozhidaetsya_v_nizhnem_novgorode_26_marta/" class="comments-list" id="comments_136507"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">06:00</span> сегодня  &#8212; Общество</span>
+                <a href="/news/2015/03/26/136506/"  class="news-title">«Фиолетовый день», или День больных эпилепсией отмечается 26 марта</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_r9X6DL'-->                    <span class="news-eye"></span><span class="news-views">165</span>
+                    <!--'end_frame_cache_r9X6DL'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136506" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/fioletovyy_den_ili_den_bolnykh_epilepsiey_otmechaetsya_26_marta/" class="comments-list" id="comments_136506"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+            <div class="news_block">
+                        <div class="news_desc">
+                <span class="news-date-time"><span class="red">23:08</span> вчера  &#8212; Экономика</span>
+                <a href="/news/2015/03/25/136505/"  class="news-title">Налоговые вычеты заявили более 13 тысяч нижегородцев на 1 марта 2015 года</a>
+                <div class="news-counter">
+                    <!--noindex-->
+                    <!--'start_frame_cache_T9UtGa'-->                    <span class="news-eye"></span><span class="news-views">159</span>
+                    <!--'end_frame_cache_T9UtGa'-->                    <script type="text/javascript">
+                        _hcwp = window._hcwp || [];
+                        _hcwp.push({widget:"Bloggerstream", widget_id: 20174, selector: "#comments_136505" , label:"<span></span>{%COUNT%}"});
+                        (function() {
+                            if("HC_LOAD_INIT" in window)return;
+                            HC_LOAD_INIT = true;
+                            var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage ||  "en").substr(0, 2).toLowerCase();
+                            var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                            hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/17825/"+lang+"/widget.js";
+                            var s = document.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(hcc, s.nextSibling);
+                        })();
+                    </script>
+                    <a href="http://newsnn.ru/comments/news/nalogovye_vychety_zayavili_bolee_13_tysyach_nizhegorodtsev_na_1_marta_2015_goda/" class="comments-list" id="comments_136505"></a>
+                    <!--/noindex-->
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+        </div>
+    </div>
+<input type="hidden" name="show_also"></div>
+<div class="clear"></div>
+<div class="clear"></div>
+<div class="main-news-list">
+    <div class="news-br"></div>
+
+    <div class="mains-news-title"><h2>Видео и Фото</h2></div>
+
+    
+    <div class="news-date-time"><span class="red">18:18</span> сегодня</div>
+    <div class="pv_title"><a href="/photo/culture/assambleya_arsenalov_prokhodit_v_nizhnem_novgorode/">Ассамблея Арсеналов проходит в Нижнем Новгороде</a></div>
+    <a href="/photo/culture/assambleya_arsenalov_prokhodit_v_nizhnem_novgorode/"><img src="/upload/resize_cache/iblock/0e8/626_1000_1/0e83209c415f1f35cff1aa57d6206fd0.JPG" /></a>
+        
+    <div class="pv_blocks">
+    
+                    <div class="pv_block ">
+                <a href="/photo/society/sportivnyy_kompleks_tennis_park_otkrylsya_v_nizhnem_novgorode/"><img src="/upload/resize_cache/iblock/5ef/130_80_1/5ef317807dcf6a9049c4f41816eef8e2.JPG" /></a>
+                                <div class="news-date-time"><span >19:18</span> вчера</div>
+                <a href="/photo/society/sportivnyy_kompleks_tennis_park_otkrylsya_v_nizhnem_novgorode/">Спортивный комплекс «Теннис Парк» открылся в Нижнем Новгороде</a>
+            </div>
+                    <div class="pv_block ">
+                <a href="/photo/society/torzhestvennyy_miting_v_chest_dnya_moryaka_podvodnika_proshel_v_nizhegorodskom_kremle/"><img src="/upload/resize_cache/iblock/ea1/130_80_1/ea14041f29e39f9eaf024a8f49e5380a.JPG" /></a>
+                                <div class="news-date-time"><span >18:22</span> вчера</div>
+                <a href="/photo/society/torzhestvennyy_miting_v_chest_dnya_moryaka_podvodnika_proshel_v_nizhegorodskom_kremle/">Торжественный митинг в честь Дня моряка-подводника прошел в Нижегородском кремле</a>
+            </div>
+                    <div class="pv_block ">
+                <a href="/photo/society/nizhegorodtsy_otmetili_godovshchinu_vkhozhdeniya_kryma_i_sevastopolya_v_sostav_rossii/"><img src="/upload/resize_cache/iblock/332/130_80_1/33222938e97f78d5c2bec869e3a6bbb5.JPG" /></a>
+                                <div class="news-date-time"><span >20:57</span> Среда, 18 Марта 2015</div>
+                <a href="/photo/society/nizhegorodtsy_otmetili_godovshchinu_vkhozhdeniya_kryma_i_sevastopolya_v_sostav_rossii/">Нижегородцы отметили годовщину вхождения Крыма и Севастополя в состав России</a>
+            </div>
+                    <div class="pv_block nomargin_right">
+                <a href="/photo/society/_dnya_svyatogo_patrika_otmetili_v_nizhnem_novgorode/"><img src="/upload/resize_cache/iblock/e5a/130_80_1/e5a943217a33cfc7673ed7f2a7b80483.JPG" /></a>
+                                <div class="news-date-time"><span >23:19</span> Вторник, 17 Марта 2015</div>
+                <a href="/photo/society/_dnya_svyatogo_patrika_otmetili_v_nizhnem_novgorode/">  Дня Святого Патрика отметили в Нижнем Новгороде</a>
+            </div>
+                
+    </div>
+    
+</div>            </div>
+            <div class="body_block_right ">
+            <noindex>
+                        
+            <div class="mains-news-title"><h2>Главное</h2></div>
+<div class="mains-news-list">
+		<div class="news-item" id="bx_651765591_136492">
+		<div class="news-text">
+					<span class="news-date-time"><span class="red">18:28</span> вчера &#8212; Общество</span>
+							<div class="news-name">
+							<a href="news/2015/03/25/136492/">Большинство продуктов подешевело в нижегородских магазинах за месяц</a>
+						</div>
+						</div>
+	</div>
+    <div class="news-br"></div>
+		<div class="news-item" id="bx_651765591_136470">
+		<div class="news-text">
+					<span class="news-date-time"><span class="red">14:37</span> вчера &#8212; Общество</span>
+							<div class="news-name">
+							<a href="news/2015/03/25/136470/">Капитальный ремонт начнется в отделе ЗАГС Автозаводского района 6 апреля</a>
+						</div>
+						</div>
+	</div>
+    <div class="news-br"></div>
+		<div class="news-item" id="bx_651765591_136454">
+		<div class="news-text">
+					<span class="news-date-time"><span class="red">11:33</span> вчера &#8212; Экономика</span>
+							<div class="news-name">
+							<a href="news/2015/03/25/136454/">ПФО занял первое место среди округов по долгам, которые банки передали коллекторами с начала 2015 года</a>
+						</div>
+						</div>
+	</div>
+    <div class="news-br"></div>
+		<div class="news-item" id="bx_651765591_136437">
+		<div class="news-text">
+					<span class="news-date-time"><span class="red">08:15</span> вчера &#8212; Общество</span>
+							<div class="news-name">
+							<a href="news/2015/03/25/136437/">Нижегородская область занимает первое место в ПФО по количеству чиновников в органах местного самоуправления</a>
+						</div>
+						</div>
+	</div>
+    <div class="news-br"></div>
+		<div class="news-item" id="bx_651765591_136436">
+		<div class="news-text">
+					<span class="news-date-time"><span class="red">22:34</span> Вторник, 24 Марта 2015 &#8212; Общество</span>
+							<div class="news-name">
+							<a href="news/2015/03/24/136436/">Почти 270 млн руб. выделено на реконструкцию взлетно-посадочной полосы нижегородского аэропорта</a>
+						</div>
+						</div>
+	</div>
+    <div class="news-br"></div>
+</div>
+
+            
+                    <!--'start_frame_cache_SZ3PdZ'-->        <div class="banner-left">
+        <div style="width: 300px; height: 120px; padding:0; margin:0"><OBJECT
+	classid="clsid:D27CDB6E-AE6D-11CF-96B8-444553540000"
+	codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"
+	id="banner_2"
+	WIDTH="300"
+	HEIGHT="120">
+		<PARAM NAME="movie" VALUE="/upload/rk/65e/65e0330cd876c6394fe9145f5a216be2.swf?flash_link=%2Fbitrix%2Frk.php%3Fid%3D2%26amp%3Bevent1%3Dbanner%26amp%3Bevent2%3Dclick%26amp%3Bgoto%3Dhttp%253A%252F%252Fwww.nsk.elektra.ru%252Fabout%252Fnews%252Fcompany%252Fnews.php%253FID%253D2523&amp;flash_target=_blank" />
+		<PARAM NAME="quality" VALUE="high" />
+		<PARAM NAME="bgcolor" VALUE="#FFFFFF" />
+		<PARAM NAME="wmode" VALUE="transparent" />
+		<EMBED
+			src="/upload/rk/65e/65e0330cd876c6394fe9145f5a216be2.swf?flash_link=%2Fbitrix%2Frk.php%3Fid%3D2%26amp%3Bevent1%3Dbanner%26amp%3Bevent2%3Dclick%26amp%3Bgoto%3Dhttp%253A%252F%252Fwww.nsk.elektra.ru%252Fabout%252Fnews%252Fcompany%252Fnews.php%253FID%253D2523&amp;flash_target=_blank"
+			quality="high"
+			bgcolor="#FFFFFF"
+			wmode="transparent"
+			WIDTH="300"
+			HEIGHT="120"
+			NAME="banner"
+			TYPE="application/x-shockwave-flash"
+			PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer">
+		</EMBED>
+</OBJECT></div>        </div>
+    <!--'end_frame_cache_SZ3PdZ'-->        <!--'start_frame_cache_KJxFOM'-->        <div id="banner-left-two">
+        <div id="idGqBerXsNni" style="width: 300px; height: 300px; padding:0; margin:0;"></div><script type="text/javascript">bx_adv_includeFlash("idGqBerXsNni", "/upload/rk/506/5066bb6fee3fd7d9bfa429bf922b43e1.swf?flash_link=%2Fbitrix%2Frk.php%3Fid%3D9%26amp%3Bevent1%3Dbanner%26amp%3Bevent2%3Dclick%26amp%3Bevent3%3D1%2B%252F%2B%255B9%255D%2B%255BLEFT2%255D%2B%25D0%25A2%25D0%259D%25D0%25A1%2B%25D1%258D%25D0%25BD%25D0%25B5%25D1%2580%25D0%25B3%25D0%25BE%26amp%3Bgoto%3Dhttp%253A%252F%252Ftns-e.ru%252F&amp;flash_target=_blank", "300", "300", "transparent", "/upload/rk/064/064453ba087f01bc0f64438e6cd0477f.gif", null, "/bitrix/rk.php?id=9&amp;event1=banner&amp;event2=click&amp;event3=1+%2F+%5B9%5D+%5BLEFT2%5D+%D0%A2%D0%9D%D0%A1+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%BE&amp;goto=http%3A%2F%2Ftns-e.ru%2F", "_blank", "");</script>        </div>
+    <!--'end_frame_cache_KJxFOM'-->                        <script type="text/javascript">if (window.location.hash != '' && window.location.hash != '#') top.BX.ajax.history.checkRedirectStart('bxajaxid', '55e563282a3d278d755c7fa4b7f84a79')</script><div id="comp_55e563282a3d278d755c7fa4b7f84a79"></div><script type="text/javascript">if (top.BX.ajax.history.bHashCollision) top.BX.ajax.history.checkRedirectFinish('bxajaxid', '55e563282a3d278d755c7fa4b7f84a79');</script><script type="text/javascript">top.BX.ready(BX.defer(function() {window.AJAX_PAGE_STATE = new top.BX.ajax.component('comp_55e563282a3d278d755c7fa4b7f84a79'); top.BX.ajax.history.init(window.AJAX_PAGE_STATE);}))</script>                
+<div class="mains-news-title"><h2>Интервью</h2></div>
+<div class="analytics_list">
+                            <div class="analytics_item" id="bx_3485106786_136307">
+                                            <a href="/interview/culture/datskiy_arkhitektor_kristoffer_vays_ya_za_sokhranenie_istoricheskoy_zastroyki/">
+                            <div style="background:url(/upload/resize_cache/iblock/607/300_1000_1/6076b57afb1585507a1b3a917a01fdfd.jpg) 0px 0px no-repeat;height:142px">
+                                <div class="analytics_shadow" style="height:142px;width:300px">
+                                    <div class="analytics_desc">
+                                                                                        <div class="news-date-time"><span >10:54</span> Понедельник, 23 Марта 2015</div>
+                                                                                                                                                                                        Датский архитектор Кристоффер Вайс: я за сохранение исторической застройки                                                                                                                                                                    </div>
+                                </div>
+                            </div>						
+                        </a>
+                                </div>
+                            <div class="analytics_item" id="bx_3485106786_135842">
+                                            <a href="/interview/culture/anton_shchagvin_teatralnyy_tsekh_mesto_gde_zhivet_sovremennaya_dramaturgiya/">
+                            <div style="background:url(/upload/resize_cache/iblock/dbc/300_1000_1/dbc5a87bc6290f7c81dfaeca354c9979.jpg) 0px 0px no-repeat;height:200px">
+                                <div class="analytics_shadow" style="height:200px;width:300px">
+                                    <div class="analytics_desc">
+                                                                                        <div class="news-date-time"><span >14:48</span> Понедельник, 16 Марта 2015</div>
+                                                                                                                                                                                        Антон Щагвин: «Театральный цех» — место, где живет современная драматургия                                                                                                                                                                    </div>
+                                </div>
+                            </div>						
+                        </a>
+                                </div>
+                            <div class="analytics_item" id="bx_3485106786_134949">
+                                            <a href="/interview/society/artem_patrin_zachastuyu_nelegalnaya_svalka_iz_sovetskogo_rayona_prosto_akkuratno_perevozitsya_v_nizh/">
+                            <div style="background:url(/upload/resize_cache/iblock/a53/300_1000_1/a531934dda2953a03e2c04214e800191.jpeg) 0px 0px no-repeat;height:236px">
+                                <div class="analytics_shadow" style="height:236px;width:300px">
+                                    <div class="analytics_desc">
+                                                                                        <div class="news-date-time"><span >23:06</span> Воскресенье, 1 Марта 2015</div>
+                                                                                                                                                                                        Артем Патрин: Зачастую нелегальная свалка из Советского района просто аккуратно перевозится в Нижегородский                                                                                                                                                                    </div>
+                                </div>
+                            </div>						
+                        </a>
+                                </div>
+    </div>
+<div class="hr"></div>
+<div class="mains-news-title"><h2>Аналитика</h2></div>
+<div class="analytics_list">
+                            <div class="analytics_item" id="bx_3099439860_136548">
+                                            <a href="/analytics/economy/kvalifikatsiya_ostaetsya_v_tsene/">
+                            <div style="background:url(/upload/resize_cache/iblock/087/300_1000_1/0871d62933c42b73a26e6a55f4cab285.jpg) 0px 0px no-repeat;height:209px">
+                                <div class="analytics_shadow" style="height:209px;width:300px">
+                                    <div class="analytics_desc">
+                                                                                        <div class="news-date-time"><span >10:00</span> сегодня</div>
+                                                                                                                                                                                        Квалификация остается в цене                                                                                                                                                                    </div>
+                                </div>
+                            </div>						
+                        </a>
+                                </div>
+                            <div class="analytics_item" id="bx_3099439860_136183">
+                                            <a href="/analytics/politics/sadites_udovletvoritelno/">
+                            <div style="background:url(/upload/resize_cache/iblock/ce7/300_1000_1/ce770b63b89f73e5c035b169a28e5644.jpg) 0px 0px no-repeat;height:178px">
+                                <div class="analytics_shadow" style="height:178px;width:300px">
+                                    <div class="analytics_desc">
+                                                                                        <div class="news-date-time"><span >12:16</span> Пятница, 20 Марта 2015</div>
+                                                                                                                                                                                        Садитесь, удовлетворительно                                                                                                                                                                    </div>
+                                </div>
+                            </div>						
+                        </a>
+                                </div>
+                            <div class="analytics_item" id="bx_3099439860_134780">
+                                            <a href="/analytics/economy/nizhegorodskiy_filial_alfa_banka_ne_planiruet_sokrashcheniy/">
+                            <div style="background:url(/upload/resize_cache/iblock/e63/300_1000_1/e6309c3351bbe67dba3319143f723f48.jpg) 0px 0px no-repeat;height:200px">
+                                <div class="analytics_shadow" style="height:200px;width:300px">
+                                    <div class="analytics_desc">
+                                                                                        <div class="news-date-time"><span >12:03</span> Пятница, 20 Марта 2015</div>
+                                                                                                                                                                                         Альфа-Банк: в новых условиях выиграет эффективный бизнес                                                                                                                                                                     </div>
+                                </div>
+                            </div>						
+                        </a>
+                                </div>
+    </div>
+<div class="hr"></div>
+
+<div class="mains-news-title"><h2>Блоги</h2></div>
+    <div class="columnist_list">
+                    <div class="columnist_block" id="bx_565502798_136333_">
+                <div class="news_desc">
+                    <span class="news-date-time"><span class="red">15:05</span> Понедельник, 23 Марта 2015</span>
+                    <a href="/columnists/nataliya_ketkova/my_vse_takie_raznye/" class="news-title">Мы все такие разные</a>
+                    <div class="columnist_text"></div>
+                    <div class="news-counter">
+                        <span class="news-eye"></span><span class="news-views">133</span>
+                        <a href="http://newsnn.ru/comments/columnists/my_vse_takie_raznye/" class="comments-list" id="comments_136333"><span></span> 0</a>
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="columnist_face">
+                <a href="/columnists/nataliya_ketkova/">
+                                            <img src="/upload/resize_cache/iblock/c80/40_32_1/c80a92ba4c66481b1c962b3795495410.jpg" width="23"  height="32">
+                                        <strong>Наталия Кеткова. Это жизнь.</strong>
+                    <span>Блог о хорошем и плохом, детях - своих и не только, проблемах, которые волнуют, и добрых делах, которые вдохновляют.<br />
+</span>
+
+                </a>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+
+                    <div class="columnist_block" id="bx_565502798_136290_">
+                <div class="news_desc">
+                    <span class="news-date-time"><span class="red">23:18</span> Воскресенье, 22 Марта 2015</span>
+                    <a href="/columnists/aleksey_fokin_/krylya_okazalis_silnee_bk_nn/" class="news-title">«Крылья» оказались сильнее БК «НН»</a>
+                    <div class="columnist_text"></div>
+                    <div class="news-counter">
+                        <span class="news-eye"></span><span class="news-views">84</span>
+                        <a href="http://newsnn.ru/comments/columnists/krylya_okazalis_silnee_bk_nn/" class="comments-list" id="comments_136290"><span></span> 0</a>
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="columnist_face">
+                <a href="/columnists/aleksey_fokin_/">
+                                            <img src="/upload/resize_cache/iblock/c4b/40_32_1/c4b68ef39f6a3847015119322ebb8fa8.jpg" width="33"  height="32">
+                                        <strong>Алексей Фокин</strong>
+                    <span></span>
+
+                </a>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+
+                    <div class="columnist_block" id="bx_565502798_136263_">
+                <div class="news_desc">
+                    <span class="news-date-time"><span class="red">19:10</span> Суббота, 21 Марта 2015</span>
+                    <a href="/columnists/aleksey_fokin_/chayka_poletela_vyshe/" class="news-title">«Чайка» полетела выше</a>
+                    <div class="columnist_text"></div>
+                    <div class="news-counter">
+                        <span class="news-eye"></span><span class="news-views">302</span>
+                        <a href="http://newsnn.ru/comments/columnists/chayka_poletela_vyshe/" class="comments-list" id="comments_136263"><span></span> 0</a>
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="columnist_face">
+                <a href="/columnists/aleksey_fokin_/">
+                                            <img src="/upload/resize_cache/iblock/c4b/40_32_1/c4b68ef39f6a3847015119322ebb8fa8.jpg" width="33"  height="32">
+                                        <strong>Алексей Фокин</strong>
+                    <span></span>
+
+                </a>
+            </div>
+            <div class="clear"></div>
+            <div class="news-br"></div>
+
+            </div>
+                <div id="news-popular">
+    <div class="mains-news-title"><h2>Популярные новости</h2></div>
+    <div class="psort">
+        <a class="active" href="/" onclick="newsShowPopular(''); return false;">За неделю</a>
+        <a href="/?psort=month" onclick="newsShowPopular('month'); return false;">За месяц</a>
+        <a href="/?psort=year" onclick="newsShowPopular('year'); return false;">За год</a>
+    </div>
+    <div class="mains-news-list">
+                                                        <div class="news-item" id="bx_1454625752_136311">
+                <div class="news-text">
+                                            <span class="news-date-time"><span class="red">11:33</span> Понедельник, 23 Марта 2015 &#8212; Происшествия</span>
+                                                                <div class="news-name">
+                                                            <a href="/news/2015/03/23/136311/">Около 200 человек подрались в Нижнем Новгороде из-за девушки по имени Ксюша</a>
+                                                    </div>
+                                                        </div>
+            </div>
+
+                                                <div class="news-br"></div>
+                                    <div class="news-item" id="bx_1454625752_136173">
+                <div class="news-text">
+                                            <span class="news-date-time"><span class="red">10:42</span> Пятница, 20 Марта 2015 &#8212; Общество</span>
+                                                                <div class="news-name">
+                                                            <a href="/news/2015/03/20/136173/">Солнечное затмение достигнет 60% при наблюдении за ним в Нижнем Новгороде</a>
+                                                    </div>
+                                                        </div>
+            </div>
+
+                                                <div class="news-br"></div>
+                                    <div class="news-item" id="bx_1454625752_136360">
+                <div class="news-text">
+                                            <span class="news-date-time"><span class="red">19:26</span> Понедельник, 23 Марта 2015 &#8212; Происшествия</span>
+                                                                <div class="news-name">
+                                                            <a href="/news/2015/03/23/136360/">«ГАЗель» насмерть задавила семнадцатилетнюю девушку в Автозаводском районе Нижнего Новгорода</a>
+                                                    </div>
+                                                        </div>
+            </div>
+
+                                                <div class="news-br"></div>
+                                    <div class="news-item" id="bx_1454625752_136152">
+                <div class="news-text">
+                                            <span class="news-date-time"><span class="red">19:33</span> Четверг, 19 Марта 2015 &#8212; Общество</span>
+                                                                <div class="news-name">
+                                                            <a href="/news/2015/03/19/136152/">Солнечное затмение смогут увидеть нижегородцы 20 марта 2015 года</a>
+                                                    </div>
+                                                        </div>
+            </div>
+
+                                                <div class="news-br"></div>
+                                    <div class="news-item" id="bx_1454625752_136130">
+                <div class="news-text">
+                                            <span class="news-date-time"><span class="red">15:46</span> Четверг, 19 Марта 2015 &#8212; Происшествия</span>
+                                                                <div class="news-name">
+                                                            <a href="/news/2015/03/19/136130/">Шестнадцатилетний подросток предстанет перед судом за сексуальные издевательства над сверстником в Нижнем Новгороде</a>
+                                                    </div>
+                                                        </div>
+            </div>
+
+            </div>
+    <div class="hr"></div>
+        </div>                           </noindex>
+            </div>
+<div class="clear"></div>
+
+<script>
+
+	function banner_set_fade(id)
+	{
+		$("#"+id).hover(
+			function(){
+				banner_fade(this);
+			},
+			function(){
+				banner_fade_out(this);
+			}
+		);			
+	}
+
+	function banner_fade(banner)
+	{
+		$(banner).css('position', "relative");
+		$(banner).css('z-index', "99999999");
+
+		$("#fade_banner").fadeIn(200);
+	}
+
+	function banner_fade_out(banner)
+	{
+		$("#fade_banner").fadeOut(
+			100, 
+			function(){$(banner).css('z-index', "0")}
+		);
+	}
+
+	$(document).ready(function() {
+		//banner_set_fade('banner-center');
+	});
+</script>
+
+<style>
+	.fade_overlay {
+			position:fixed; 
+			z-index:9999; 
+			top:-1;
+			left:0; 
+			right:0; 
+			bottom:0; 
+			background:url(/images/overlay.png); 
+			width: 100%;
+			height: 100%;
+			border-top: 1px solid #888;
+	}
+
+	#fade_banner_text {
+		position: relative; 
+		color: white; 
+		font-size: 14px; 
+		width: 200px; 
+		height: 56px;
+	}
+	
+	.tizer_block {
+		z-index:0;
+	}
+</style>
+
+<div id="fade_banner" class="fade_overlay" style="display:none;" onclick='this.style.display="none";'>
+	<div id="fade_banner_text"></div>
+</div>
+
+<div id="n4p_27874" style="margin-top:40px">Loading...</div>
+<script type="text/javascript" charset="utf-8">
+(function(d,s){
+var o=d.createElement(s);
+o.async=true;
+o.type="text/javascript";
+o.charset="utf-8";
+o.src="http://js.ru.redtram.com/n4p/0/27/ticker_27874.js";
+var x=d.getElementsByTagName(s)[0];
+x.parentNode.insertBefore(o,x);
+})(document,"script");
+</script>
+        </div>
+        <div class="clear"></div>
+        <div class="footer_bg">
+            <div class="footer">
+                <div class="btnup"></div>
+                <div class="footer_left">
+                    НьюсНН.РУ © 2009—2014&nbsp;<br>
+Информационное агентство Нижнего Новгорода <br>
+ e-mail: <a href="mailto:info@newsnn.ru">info@newsnn.ru</a>                    <div class="social_bt">
+                        <noindex><a href="https://vk.com/publicnewsnn" id="vk" target="blank"></a></noindex>
+<!--<a href="" id="tw"></a>
+<a href="" id="yt"></a>-->
+<noindex><a href="https://www.facebook.com/newsnn" id="fb" target="blank"></a></noindex>
+                    </div>
+                </div>
+                <div class="footer_center">
+                    <div class="bottom-menu">
+<ul>
+	            <li><a href="/about/">О проекте</a></li>
+	            <li><a href="/contacts/">Контакты</a></li>
+	            <li><a href="/commercial/">Реклама</a></li>
+	            <li><a href="/map/">Карта сайта</a></li>
+	            <li><a href="/news/archive/">Архив</a></li>
+	</ul>
+</div>                    <p>
+                        Настоящий ресурс может содержать материалы <b>16+</b><br>
+                        <!--'start_frame_cache_area_sape'--><!-- tl start--><!-- in tl -->
+<!-- tl included--><!-- tl end --><!--500d68ba-->
+<a href="http://germes-std.ru/газобетон">газосиликатные блоки цена производители</a>. Если вы облагораживаете свой офис, проще и удобнее купить <a href='http://www.mebelstyle.ru/cat/mebel-dlya-rukovoditeley/'>комплект мебели для руководителя</a> – в этом случае вы сможете рассчитывать на экономию. По этой ссылки <a href="http://www.sumki.ru/" target="_blank">http://www.sumki.ru/</a> я покупаю красивые сумки. <script type="text/javascript">var _acic={dataProvider:100};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="//www2.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()</script><!--REQUEST_URI=/-->
+
+<!--
+L T0.4.6
+REMOTE_ADDR=178.159.252.126
+request_uri=/
+charset=UTF-8
+is_static=
+multi_site=
+file change date=26.03.2015 10:59:05
+lc_file_size=1822896
+lc_links_count=0
+left_links_count=0
+tl_cache=
+tl_cache_size=10
+tl_cache_block=0
+tl_cache_update=
+n=0
+--><!-- a96eb93c --><!--  --><!--3a9f6b4e--><!--'end_frame_cache_area_sape'-->                    <br>
+<span id="footer-link-pol">«Все материалы опубликованные на сайте принадлежат информационному агентству «НьюсНН». Частичное или полное цитирование возможно только со ссылкой на «НьюсНН»</span>
+<br>
+Свидетельство о регистрации СМИ ИА № ФС 18-3169 от 25.12.2006г.
+Выдано Управлением Федеральной службы по надзору за соблюдением законодательства в
+сфере массовых коммуникаций и охране культурного наследия по Приволжскому федеральному округу                    </p>  
+                </div>
+                <div class="footer_right">
+                    Сделано в <noindex><a href="http://morizo.ru">Моризо</a></noindex>
+                </div>
+                <div class="footer_counters">
+                    <script type="text/javascript" src="/js/orphus.js"></script>
+<noindex><a href="http://orphus.ru" id="orphus" target="_blank"><img alt="Система Orphus" src="/img/orphus.gif" border="0" width="88" height="31" /></a></noindex>
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<noindex><a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+	"border='0' width='88' height='31'><\/noindex><\/a>")
+//--></script><!--/LiveInternet-->
+
+<!-- Yandex.Metrika informer -->
+<noindex><a href="https://metrika.yandex.ru/stat/?id=26879160&amp;from=informer"
+target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/26879160/3_1_FFFFF5FF_FFEFD5FF_0_pageviews"
+	style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" onclick="try{Ya.Metrika.informer({i:this,id:26879160,lang:'ru'});return false}catch(e){}"/></a></noindex>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter26879160 = new Ya.Metrika({id:26879160,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/26879160" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-57284199-1', 'newsnn.ru');
+    ga('send', 'pageview');
+
+</script>
+<!--Begin Counter.NN.RU v2.0 code-->
+
+<script type="text/javascript">
+
+document.write("<noindex><a target=\"_blank\" href=\"http://counter.nn.ru/?14487\">"+
+
+"<img src=\"http://counter.nn.ru/cgi-bin/counter.cgi?14487"+
+
+			   ",,"+top.document.referrer+"\" width=\"88\" height=\"31\" border=\"0\" alt=\"Counter.NN.RU\"></a></noindex>");
+
+</script>
+
+<noscript>
+
+<noindex><a href="http://counter.nn.ru/?14487">
+
+<img src="http://counter.nn.ru/cgi-bin/counter.cgi?14487" 
+
+	width="88" height="31" border="0" alt="NN counter top100"></a></noindex>
+
+</noscript>
+
+<!--End Counter.NN.RU code-->                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,19 @@
+DirectoryIndex site.php index.html index.php 
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^www.weeaaa.ru$ [NC]
+RewriteRule ^(.*)$ http://weeaaa.ru/$1 [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /site.php?rqpath=$1 [L,QSA]
+
+Options -Indexes
+
+php_value upload_max_filesize 32M
+php_value post_max_size 35M
+
+AddDefaultcharset utf8
+AddType text/x-component .htc
+
+#php_flag display_errors off 

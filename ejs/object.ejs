@@ -1,0 +1,112 @@
+<div class="arr_left" socid="<%= socid %>"></div>
+<div class="arr_right" socid="<%= socid %>"></div>
+        <div class="left">
+          <div class="img">
+            <img src="<%= src_big %>" class="bigimg"/>
+            <% if ((typeof userid != 'undefined' && lib.userid && lib.userid==userid) || (lib.userstatus && typeof oid != 'undefined')) { %>
+              <div class="manage">
+                <button class="btn btn-sm btn-default editObject" socid="<%= socid %>" <% if (typeof oid != 'undefined') { %>oid="<%= oid %>"<% } %>><i class="glyphicon glyphicon-pencil"></i> Редактировать</button>
+                <button class="btn btn-sm btn-danger removeObject" socid="<%= socid %>" <% if (typeof oid != 'undefined') { %>oid="<%= oid %>"<% } %>><i class="glyphicon glyphicon-remove"></i> Удалить</button>
+              </div>
+            <% } %>
+          </div>
+          <div class="bot">
+            <div class="source source_<%= type %>"></div>
+            <div class="time"><i class="glyphicon glyphicon-time"></i> <span><%= created %></span></div>
+            <a href="<%= profile_url %>" target="_new" class="profile obj">
+              <% if (profile_picture != '') { %>        
+                <img src="<%= profile_picture %>"/>
+              <% } else { %>
+                <img src="/img/noava40.gif"/>
+              <% }  %> 
+              <span><%= fullname %></span></a>              
+          </div>      
+          <div class="share">
+            <div class="share42init" id="share42init"
+              <% if (typeof oid != 'undefined' && oid) { %>
+                   oid = <%= oid %>
+              <% } %>
+              data-url=""
+              data-title=""
+              data-image=""
+              data-path="../img/"
+              data-icons-file="share42_icons.png"
+              data-description=""
+              data-top1="110"
+              data-top2="20"
+              data-margin="-90"
+            ></div>
+          </div>
+          <div class="getLink">
+            <button class="btn btn-sm btn-default" socid="<%= socid %>" <% if (typeof oid != 'undefined') { %>oid="<%= oid %>"<% } %>><i class="glyphicon glyphicon-globe"></i> Получить ссылку на этот объект</button>
+            <input type="text" value=""/>
+          </div>
+          <% if (typeof tag == 'string') { %>
+            <div class="section">
+              <span class="label  <% if (tag == 'продажа') { %>label-success<% } else if (tag == 'важное событие') { %>label-danger<% } else if (tag == 'новость') { %>label-info<% } else { %>label-default<% } %>"><%= tag %></span>
+            </div>
+          <% } %>                    
+        </div>
+        <div class="info">
+          <div class="top">     
+            <% if (typeof text != 'undefined' && text.length>0) { %>
+              <p class="text">
+              <a href="<%= profile_url %>" target="_new" class="profile obj">
+              <% if (profile_picture != '') { %>        
+                <img src="<%= profile_picture %>"/>
+              <% } else { %>
+                <img src="/img/noava40.gif"/>
+              <% }  %> 
+              <span><%= fullname %></span>:</a>                
+              <%= text %></p>
+            <% } %>
+          </div>
+          <div class="btn-toolbar likes" socid="<%= socid %>">
+            <% if (typeof oid != 'undefined' && oid) { %>
+              <a href="/object<%= oid %>/" class="btn btn-sm btn-default link" title="Страница объекта" style="float:right;"><i class="glyphicon glyphicon-resize-full"></i> Развернуть</a>
+            <% } %>                                  
+            <div class="btn-group">        
+              <a href="#" class="btn btn-danger <% if (typeof myvote != 'undefined') { %><% if (myvote==-1) { %>active<% } else if (myvote==1) { %>disabled<% } %><% } %>" value="-1" oid="<%= (typeof oid != 'undefined')?oid:0 %>" socid="<%= socid %>"><i class="glyphicon glyphicon-thumbs-down"></i></a>
+              <span class="rate"><%= rate %></span>
+              <a href="#" class="btn btn-success <% if (typeof myvote != 'undefined') { %><% if (myvote==1) { %>active<% } else if (myvote==-1) { %>disabled<% } %><% } %>" value="1" oid="<%= (typeof oid != 'undefined')?oid:0 %>" socid="<%= socid %>"><i class="glyphicon glyphicon-thumbs-up"></i></a>                      
+            </div>
+          </div>                    
+          <div class="messList">
+            <div class="preloader"></div>
+            <div class="notext">Пока здесь никто ничего не написал<br/>Вы можете первым прокомментировать этот объект, или поставить свой лайк</div>
+          </div>
+          <form id="forumForm">
+            <input type="hidden" name="action" value="add"/>
+            <% if (typeof oid != 'undefined' && oid) { %>
+              <input type="hidden" name="socid" value="<%= socid %>"/>
+              <input type="hidden" name="image" value=""/>
+              <input type="hidden" name="text" value=""/>            
+              <input type="hidden" name="lat" value=""/>
+              <input type="hidden" name="lng" value=""/>
+            <% } else { %>
+              <input type="hidden" name="socid" value="<%= socid %>"/>
+              <input type="hidden" name="image" value="<%= src_big %>"/>
+              <input type="hidden" name="text" value="<%= lib.escapeHtml(text) %>"/>
+              <input type="hidden" name="lat" value="<%= lat %>"/>
+              <input type="hidden" name="lng" value="<%= long %>"/>
+              <input type="hidden" name="author_name" value="<%= lib.escapeHtml(fullname) %>"/>
+              <input type="hidden" name="author_link" value="<%= profile_url %>"/>
+              <input type="hidden" name="author_image" value="<%= (profile_picture != '')?profile_picture:"/img/noava40.gif" %>"/>              
+            <% } %>
+            <input type="hidden" name="answer_userid" value=""/>
+            <input type="hidden" name="answer_username" value=""/>
+            <% if (lib.userid) { %>
+              <div class="input-group">
+                <div class="ava"><img src="<%= lib.userimage %>"/></div>
+                <div class="ffWrap">
+                  <textarea class="form-control" name="content"></textarea>
+                  <span class="input-group-btn">
+                    <button class="btn btn-primary btn-sm" type="submit" title="Отправить"><i class="glyphicon glyphicon-send"></i></button>
+                  </span>
+                </div>
+              </div>            
+            <% } else { %>
+              <div class="error">Чтобы иметь возможно комментировать - зарегистрируйтесь (иконки сверху справа)</div>
+            <% } %>            
+          </form>
+        </div>

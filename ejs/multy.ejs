@@ -1,0 +1,67 @@
+<% if (data.length) { %>
+<% for(var item in data) { %>
+  <div class="item" iid="<%= data[item].socid %>">
+    <div class="img tomap" lat="<%= data[item].lat %>" long="<%= data[item].long %>" iid="<%= data[item].socid %>"><img src="<%= data[item].src_big %>"/></div>
+    <div class="info">
+      <div class="time"><i class="glyphicon glyphicon-time"></i><%= data[item].created %></div>
+      <a href="<%= data[item].profile_url %>" target="_new" class="profile">
+        <% if (data[item].profile_picture != '') { %>
+          <img src="<%= data[item].profile_picture %>"/>
+        <% } else { %>
+          <img src="/img/noava40.gif"/>
+        <% } %>
+        <%= data[item].fullname %>
+      </a>
+      <p><%= data[item].text %></p>
+      <% if (data[item].la_userid) { %>
+        <div class="la">
+          <a href="/u<%= data[item].la_userid %>/" target="_new" class="profile">
+            <img src="<%= data[item].la_userimage %>"/> <%= data[item].la_username %>
+          </a>
+          <% if (data[item].la_userid != lib.userid) { %>
+            <a href="/profile/pm/<%= data[item].la_userid %>/" class="btn btn-default btn-sm" title="написать сообщение">&nbsp;<i class="glyphicon glyphicon-envelope"></i>&nbsp;</a>
+          <% } %>
+          <% if (data[item].la_action == 'comment') { %>
+            <%= data[item].la_value %>
+          <% } else if (data[item].la_action == 'getlink') { %>
+            проявил интерес
+          <% } else { %>
+            проголосовал <i class="glyphicon <% if (data[item].la_value == 1) { %>glyphicon-thumbs-up<% } else { %>glyphicon-thumbs-down<% } %>"></i> 
+          <% } %>
+        </div>
+      <% } %>              
+      <div class="source source_<%= data[item].type %>"></div>
+      <div class="actions">
+        <div class="btn-toolbar likes" socid="<%= data[item].socid %>">            
+          <div class="btn-group">
+            <a href="#" class="btn btn-danger <% if (typeof data[item].myvote != 'undefined') { %><% if (data[item].myvote==-1) { %>active<% } else if (data[item].myvote==1) { %>disabled<% } %><% } %>" value="-1" oid="<%= (typeof data[item].oid != 'undefined')?data[item].oid:0 %>" socid="<%= data[item].socid %>"><i class="glyphicon glyphicon-thumbs-down"></i></a>                          
+            <span class="rate"><%= data[item].rate %></span>
+            <a href="#" class="btn btn-success <% if (typeof data[item].myvote != 'undefined') { %><% if (data[item].myvote==1) { %>active<% } else if (data[item].myvote==-1) { %>disabled<% } %><% } %>" value="1" oid="<%= (typeof data[item].oid != 'undefined')?data[item].oid:0 %>" socid="<%= data[item].socid %>"><i class="glyphicon glyphicon-thumbs-up"></i></a>                          
+          </div>
+        </div>
+        <button type="button" class="btn btn-sm forum <% if (data[item].fcount>0) { %>btn-primary<% } else { %>btn-default<% } %>" iid="<%= data[item].socid %>"><i class="glyphicon glyphicon-bullhorn"></i> Обсудить
+        <% if (data[item].fcount>0) { %>
+          (<%= data[item].fcount %>)
+        <% } %>              
+        </button>
+        <button type="button" class="btn btn-sm onthemap btn-default" iid="<%= data[item].socid %>"><i class="glyphicon glyphicon-map-marker"></i> На карте</button>
+        <% if ((typeof data[item].userid != 'undefined' && lib.userid && lib.userid==data[item].userid) || (lib.userstatus && typeof data[item].oid != 'undefined')) { %>
+          <button type="button" class="btn btn-sm editObject btn-default" title="Редактировать" socid="<%= data[item].socid %>" <% if (typeof data[item].oid != 'undefined') { %>oid="<%= data[item].oid %>"<% } %>>&nbsp;<i class="glyphicon glyphicon-pencil"></i>&nbsp;</button>
+          <button type="button" class="btn btn-sm removeObject btn-default" title="Удалить" socid="<%= data[item].socid %>" <% if (typeof data[item].oid != 'undefined') { %>oid="<%= data[item].oid %>"<% } %>>&nbsp;<i class="glyphicon glyphicon-remove"></i>&nbsp;</button>
+        <% } %>
+      </div>   
+      <% if (data[item].tag != null) { %>
+        <div class="section">
+          <span class="label  <% if (data[item].tag == 'продажа') { %>label-success<% } else if (data[item].tag == 'важное событие') { %>label-danger<% } else if (data[item].tag == 'новость') { %>label-info<% } else { %>label-default<% } %>"><%= data[item].tag %></span>
+        </div>
+      <% } %>                    
+    </div>
+  </div>        
+<% } %>
+<% } else {%>
+<div class="noresult">Ничего не найдено<br/>Попробуйте изменить <br/>
+  <button class="btn btn-default" id="showsettings">настройки поиска</button> 
+  <% if (search.tag.length) { %>
+    или <button class="btn btn-default" id="showtagmenu">рубрику</button></div>
+  <% } %>
+<% } %>

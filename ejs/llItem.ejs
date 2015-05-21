@@ -1,0 +1,10 @@
+<p><%= text %></p>
+<% for(var item in data) { %>  
+    <a href="/u<%= data[item].userid %>/" class="profile" title="<%= data[item].title %>">
+      <% if (data[item].image != null) { %>
+        <img src="<%= data[item].image %>"/>
+      <% } else { %>
+        <img src="/img/noava40.gif"/>
+      <% } %>
+    </a>        
+<% } %>
